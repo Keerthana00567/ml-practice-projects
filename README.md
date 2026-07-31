@@ -11,7 +11,7 @@ A collection of end-to-end machine learning projects built while learning and pr
 | [Breast Cancer Detection](./breast-cancer-detection) | Binary Classification | Logistic Regression | 97.4% |
 | [Customer Purchase Prediction](./customer-purchase-prediction) | Binary Classification | Random Forest | 91.3% |
 | [Loan Approval Prediction](./loan-approval-prediction) | Binary Classification | Random Forest | 98.2% |
-| [Hotel Booking Cancellation Prediction](./hotel-booking-cancellation-prediction) | Binary Classification | Random Forest | *Update with your result* |
+| [Hotel Booking Cancellation Prediction](./hotel-booking-cancellation-prediction) | Binary Classification | Random Forest | 85.0% |
 
 ---
 
