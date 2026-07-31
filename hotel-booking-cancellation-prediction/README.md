@@ -82,7 +82,6 @@ The models were evaluated using:
 - Precision
 - Recall
 - F1 Score
-- ROC-AUC Score
 
 ---
 
